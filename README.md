@@ -26,15 +26,6 @@ The goal is to automate **headline extraction, article categorization, and Arabi
 
 ---
 
-## 📂 Project Structure
-├── data/ # Arabic news dataset (preprocessed)
-├── notebooks/ # Jupyter notebooks for experiments
-├── src/ # Training and evaluation scripts
-│ ├── train.py
-│ ├── evaluate.py
-│ └── utils.py
-├── results/ # Logs, checkpoints, and W&B outputs
-└── README.md # Project documentation
 
 
 
